@@ -1,6 +1,6 @@
 # Swarm Robotics Behavior
-#### California State University, Northridge
-#### Department of Electrical & Computer Engineering
+#### California State University, Northridge   
+Department of Electrical & Computer Engineering
 
 ![CSUN LOGO](CSUN_LOGO.png)
 
