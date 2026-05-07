@@ -22,6 +22,12 @@ The goal of this project is to recreate swarm robotics behavior using the Tiva C
 
 ---
 
+## Block diagram of components
+
+![Block diagram of components](ECE-528-Project-Pictures/block_diagram_components.png)
+
+---
+
 ## System Architecture
 
 ### Overview
