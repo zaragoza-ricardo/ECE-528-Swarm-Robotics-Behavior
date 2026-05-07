@@ -1,10 +1,13 @@
 # Swarm Robotics Behavior
-#### California State University, Northridge   
-#### Department of Electrical & Computer Engineering
 
-![CSUN LOGO](CSUN_LOGO.png)     
 
-----
+**California State University, Northridge**  
+**Department of Electrical & Computer Engineering**
+
+
+![CSUN Logo](CSUN_LOGO.png)     
+
+---
 
 **ECE-528**  
 **Ricardo Zaragoza**  
