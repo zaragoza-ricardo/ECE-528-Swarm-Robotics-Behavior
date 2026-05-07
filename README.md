@@ -2,7 +2,8 @@
 ### California State University, Northridge
 ### Department of Electrical & Computer Engineering
 
-![CSUN LOGO](ECE-528-Project-Pictures/CSUN_LOGO.png)
+![CSUN LOGO](CSUN_LOGO.png)
+
 
 **ECE-528**  
 **Ricardo Zaragoza**  
