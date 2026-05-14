@@ -194,7 +194,7 @@ The project also provided valuable experience in embedded systems design, hardwa
 
 - [ESP-NOW Wireless Communication](https://youtu.be/asMD70wlka4)
 - [Manual Mode](https://youtu.be/8eCgVpozRfA)
-- [Autonomous Mode](https://www.youtube.com/watch?v=fQHsLGS3hqU)
+- [Autonomous Mode](https://youtu.be/_uCekhfg5BQ)
 
 ## Works Cited
 
